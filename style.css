@@ -1,0 +1,45 @@
+h1 {
+    color: rgb(132, 40, 218);
+    background-color: rgb(225, 210, 0)
+    margin: 75px;
+    padding: 40px;
+    text-align: center;
+}
+
+body {
+    background-color: rgb(204, 236, 236)
+
+}
+
+nav ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    background-color: aqua
+}
+
+nav ul li {
+    float: left;
+    
+}
+
+nav ul li a {
+    display: block;
+    padding: 10px;
+    background-color: rgb(234, 238, 12);
+    text-decoration: none;
+    color: rgb(255, 0, 0);
+}
+
+nav ul li a:hover {
+    background-color: violet;
+    color: rgb(132, 40, 218)
+}
+.pullquote {
+    margin-left: 80px;
+    
+}
